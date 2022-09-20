@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComGraph_Lab_3", "ComGraph_Lab_3.csproj", "{BFC25F81-E5C9-4ED7-B9A4-CD210E2B71D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFC25F81-E5C9-4ED7-B9A4-CD210E2B71D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC25F81-E5C9-4ED7-B9A4-CD210E2B71D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC25F81-E5C9-4ED7-B9A4-CD210E2B71D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC25F81-E5C9-4ED7-B9A4-CD210E2B71D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95802500-6F9F-47DC-B841-096ED7BCC99C}
+	EndGlobalSection
+EndGlobal
